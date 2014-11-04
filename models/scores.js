@@ -6,7 +6,7 @@ var scoreSchema = {
 	seed: String,
 	user: String,
 	character: String,
-	score: Number,
+	score: {type: Number, index: true},
 	time: Number,
 	turns: Number,
 	moves: Object

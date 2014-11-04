@@ -12,7 +12,10 @@ router.put('/score', function(req, res, next) {
 });
 
 router.get('/score', function(req, res, next) {
-	Scores.find(function(err, data) {
+	Scores
+	.find()
+	.sort('-score')
+	.exec(function(err, data) {
 		if (err) return next(err);
 		res.json(data);
 		res.end();

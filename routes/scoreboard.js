@@ -22,4 +22,15 @@ router.get('/score', function(req, res, next) {
 	});
 });
 
+router.get('/score/:seed', function(req, res, next) {
+	Scores
+	.find({seed: req.params.seed})
+	.sort('-score')
+	.exec(function(err, data) {
+		if (err) return next(err);
+		res.json(data);
+		res.end();
+	});
+});
+
 module.exports = router;

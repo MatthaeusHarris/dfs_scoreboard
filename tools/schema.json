@@ -1,0 +1,91 @@
+{
+  "id": "460d6abe-3786-5189-f364-0b9fc41c15d9",
+  "name": "dfs_scoreboard",
+  "timestamp": 1415571036529,
+  "requests": [
+    {
+      "collectionId": "460d6abe-3786-5189-f364-0b9fc41c15d9",
+      "id": "04526a1c-f9d0-7565-c3ec-d1274767d958",
+      "name": "Get Seeds",
+      "description": "Get all seeds",
+      "url": "scores.grimm-bros.com:3000/api/seeds",
+      "method": "GET",
+      "headers": "",
+      "data": "{\"seed\":\"foo\",\"enabled\":true,\"startDate\":\"Tue Nov 04 2014 23:47:35 GMT-0800 (PST)\", \"endDate\": \"Wed Nov 11 2015 00:00:00 GMT-0800 (PST)\"}",
+      "dataMode": "raw",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "460d6abe-3786-5189-f364-0b9fc41c15d9",
+      "id": "152821d4-a33a-f868-24ea-27ede618e239",
+      "name": "Put Seed",
+      "description": "Set a current or future game seed.",
+      "url": "scores.grimm-bros.com:3000/api/seed",
+      "method": "PUT",
+      "headers": "Content-Type: application/json\n",
+      "data": "{\"seed\":\"foo\",\"enabled\":true,\"startDate\":\"Tue Nov 04 2014 23:47:35 GMT-0800 (PST)\", \"endDate\": \"Wed Nov 11 2015 00:00:00 GMT-0800 (PST)\"}",
+      "dataMode": "raw",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "460d6abe-3786-5189-f364-0b9fc41c15d9",
+      "id": "8fd72b99-1c14-3bbc-ce10-94b753cb3662",
+      "name": "Get Scores by Seed",
+      "description": "Get Scores by Seed",
+      "url": "scores.grimm-bros.com:3000/api/score/foo",
+      "method": "GET",
+      "headers": "Content-Type: application/json\n",
+      "data": "{\n  \"seed\": \"foo\",\n  \"user\": \"Matt\",\n  \"character\": \"Mouse Rat\",\n  \"score\": 50040,\n  \"time\": 29,\n  \"turns\": 80\n}",
+      "dataMode": "raw",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "460d6abe-3786-5189-f364-0b9fc41c15d9",
+      "id": "95b51315-37b3-c525-058c-250424102462",
+      "name": "Get Current Seed",
+      "description": "Get the current active game seed.",
+      "url": "scores.grimm-bros.com:3000/api/seed",
+      "method": "GET",
+      "headers": "",
+      "data": [],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "460d6abe-3786-5189-f364-0b9fc41c15d9",
+      "id": "ea835328-db8b-d3da-f8d0-31e192a143e9",
+      "name": "Post Score",
+      "description": "Post a score",
+      "url": "scores.grimm-bros.com:3000/api/score",
+      "method": "PUT",
+      "headers": "Content-Type: application/json\n",
+      "data": "{\n  \"seed\": \"foo\",\n  \"user\": \"Matt\",\n  \"character\": \"Mouse Rat\",\n  \"score\": 50040,\n  \"time\": 29,\n  \"turns\": 80\n}",
+      "dataMode": "raw",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "460d6abe-3786-5189-f364-0b9fc41c15d9",
+      "id": "f9168a4a-317d-91ec-cc38-11e712784c76",
+      "name": "Get Scores",
+      "description": "Get all scores",
+      "url": "scores.grimm-bros.com:3000/api/scores",
+      "method": "GET",
+      "headers": "Content-Type: application/json\n",
+      "data": "{\n  \"seed\": \"foo\",\n  \"user\": \"Matt\",\n  \"character\": \"Mouse Rat\",\n  \"score\": 50040,\n  \"time\": 29,\n  \"turns\": 80\n}",
+      "dataMode": "raw",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    }
+  ]
+}

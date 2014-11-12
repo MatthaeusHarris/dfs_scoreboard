@@ -1,0 +1,18 @@
+# Get Seeds
+curl -X GET "scores.grimm-bros.com:3000/api/seeds"
+
+# Put Seed
+curl -H Content-Type:application/json -X PUT -d '{"seed":"foo","enabled":true,"startDate":"Tue Nov 04 2014 23:47:35 GMT-0800 (PST)", "endDate": "Wed Nov 11 2015 00:00:00 GMT-0800 (PST)"}' "scores.grimm-bros.com:3000/api/seed"
+
+# Get Scores by Seed
+curl -X GET "scores.grimm-bros.com:3000/api/score/foo"
+
+# Get Current Seed
+curl -X GET "scores.grimm-bros.com:3000/api/seed"
+
+# Post Score
+curl -H Content-Type:application/json -X PUT -d '{ "seed": "foo", "user": "Matt", "character": "Mouse Rat", "score": 50040, "time": 29, "turns": 80}' "scores.grimm-bros.com:3000/api/score"
+
+# Get Scores
+curl -X GET "scores.grimm-bros.com:3000/api/scores"
+

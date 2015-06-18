@@ -5,6 +5,7 @@ var Scores = require('../models/scores');
 var Seeds = require('../models/seeds');
 
 router.put('/score', function(req, res, next) {
+    console.log(req.body);
 	Scores.create(req.body, function(err, data) {
 		if (err) return next(err);
 		res.send(data);
@@ -23,9 +24,9 @@ router.get('/scores', function(req, res, next) {
 	});
 });
 
-router.get('/score/:seed', function(req, res, next) {
+router.get('/score/:seed/:mode', function(req, res, next) {
 	Scores
-	.find({seed: req.params.seed})
+	.find({seed: req.params.seed, mode: req.params.mode})
 	.sort('-score')
 	.exec(function(err, data) {
 		if (err) return next(err);

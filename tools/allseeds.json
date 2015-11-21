@@ -1,0 +1,578 @@
+[
+  {
+    "seed": "Dongel",
+    "startDate": "2015-11-21T08:00:00.000Z",
+    "endDate": "2015-11-28T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Martha",
+    "startDate": "2015-11-28T08:00:00.000Z",
+    "endDate": "2015-12-05T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Inzombia",
+    "startDate": "2015-12-05T08:00:00.000Z",
+    "endDate": "2015-12-12T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Shizle",
+    "startDate": "2015-12-12T08:00:00.000Z",
+    "endDate": "2015-12-19T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "cloudy",
+    "startDate": "2015-12-19T08:00:00.000Z",
+    "endDate": "2015-12-26T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Superba",
+    "startDate": "2015-12-26T08:00:00.000Z",
+    "endDate": "2016-01-02T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Narawa",
+    "startDate": "2016-01-02T08:00:00.000Z",
+    "endDate": "2016-01-09T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "TomYum",
+    "startDate": "2016-01-09T08:00:00.000Z",
+    "endDate": "2016-01-16T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Fogger",
+    "startDate": "2016-01-16T08:00:00.000Z",
+    "endDate": "2016-01-23T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Dropping",
+    "startDate": "2016-01-23T08:00:00.000Z",
+    "endDate": "2016-01-30T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Mondheim",
+    "startDate": "2016-01-30T08:00:00.000Z",
+    "endDate": "2016-02-06T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Eleven",
+    "startDate": "2016-02-06T08:00:00.000Z",
+    "endDate": "2016-02-13T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Sodapol",
+    "startDate": "2016-02-13T08:00:00.000Z",
+    "endDate": "2016-02-20T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Mirama",
+    "startDate": "2016-02-20T08:00:00.000Z",
+    "endDate": "2016-02-27T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Hadoko",
+    "startDate": "2016-02-27T08:00:00.000Z",
+    "endDate": "2016-03-05T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Tilter",
+    "startDate": "2016-03-05T08:00:00.000Z",
+    "endDate": "2016-03-12T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Scarf",
+    "startDate": "2016-03-12T08:00:00.000Z",
+    "endDate": "2016-03-19T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Mutatia",
+    "startDate": "2016-03-19T07:00:00.000Z",
+    "endDate": "2016-03-26T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "KGB",
+    "startDate": "2016-03-26T07:00:00.000Z",
+    "endDate": "2016-04-02T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Subhole",
+    "startDate": "2016-04-02T07:00:00.000Z",
+    "endDate": "2016-04-09T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Shrooms",
+    "startDate": "2016-04-09T07:00:00.000Z",
+    "endDate": "2016-04-16T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Leakpeak",
+    "startDate": "2016-04-16T07:00:00.000Z",
+    "endDate": "2016-04-23T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Kastra",
+    "startDate": "2016-04-23T07:00:00.000Z",
+    "endDate": "2016-04-30T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Ejuice",
+    "startDate": "2016-04-30T07:00:00.000Z",
+    "endDate": "2016-05-07T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Doornot",
+    "startDate": "2016-05-07T07:00:00.000Z",
+    "endDate": "2016-05-14T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Explorer",
+    "startDate": "2016-05-14T07:00:00.000Z",
+    "endDate": "2016-05-21T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Something",
+    "startDate": "2016-05-21T07:00:00.000Z",
+    "endDate": "2016-05-28T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "BlaBla",
+    "startDate": "2016-05-28T07:00:00.000Z",
+    "endDate": "2016-06-04T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Rotten",
+    "startDate": "2016-06-04T07:00:00.000Z",
+    "endDate": "2016-06-11T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Moscow",
+    "startDate": "2016-06-11T07:00:00.000Z",
+    "endDate": "2016-06-18T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Berlin",
+    "startDate": "2016-06-18T07:00:00.000Z",
+    "endDate": "2016-06-25T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Bangkok",
+    "startDate": "2016-06-25T07:00:00.000Z",
+    "endDate": "2016-07-02T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Lada",
+    "startDate": "2016-07-02T07:00:00.000Z",
+    "endDate": "2016-07-09T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Mir",
+    "startDate": "2016-07-09T07:00:00.000Z",
+    "endDate": "2016-07-16T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Sausage",
+    "startDate": "2016-07-16T07:00:00.000Z",
+    "endDate": "2016-07-23T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Silver",
+    "startDate": "2016-07-23T07:00:00.000Z",
+    "endDate": "2016-07-30T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Magnum",
+    "startDate": "2016-07-30T07:00:00.000Z",
+    "endDate": "2016-08-06T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Bigone",
+    "startDate": "2016-08-06T07:00:00.000Z",
+    "endDate": "2016-08-13T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Mono",
+    "startDate": "2016-08-13T07:00:00.000Z",
+    "endDate": "2016-08-20T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Stereo",
+    "startDate": "2016-08-20T07:00:00.000Z",
+    "endDate": "2016-08-27T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Upon",
+    "startDate": "2016-08-27T07:00:00.000Z",
+    "endDate": "2016-09-03T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Lichter",
+    "startDate": "2016-09-03T07:00:00.000Z",
+    "endDate": "2016-09-10T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Setzer",
+    "startDate": "2016-09-10T07:00:00.000Z",
+    "endDate": "2016-09-17T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Tikiliki",
+    "startDate": "2016-09-17T07:00:00.000Z",
+    "endDate": "2016-09-24T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Doremo",
+    "startDate": "2016-09-24T07:00:00.000Z",
+    "endDate": "2016-10-01T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Drainer",
+    "startDate": "2016-10-01T07:00:00.000Z",
+    "endDate": "2016-10-08T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Mixer",
+    "startDate": "2016-10-08T07:00:00.000Z",
+    "endDate": "2016-10-15T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Moona",
+    "startDate": "2016-10-15T07:00:00.000Z",
+    "endDate": "2016-10-22T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Anatawa",
+    "startDate": "2016-10-22T07:00:00.000Z",
+    "endDate": "2016-10-29T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Thigra",
+    "startDate": "2016-10-29T07:00:00.000Z",
+    "endDate": "2016-11-05T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Boner",
+    "startDate": "2016-11-05T07:00:00.000Z",
+    "endDate": "2016-11-12T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Louder",
+    "startDate": "2016-11-12T08:00:00.000Z",
+    "endDate": "2016-11-19T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Boulder",
+    "startDate": "2016-11-19T08:00:00.000Z",
+    "endDate": "2016-11-26T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Buss",
+    "startDate": "2016-11-26T08:00:00.000Z",
+    "endDate": "2016-12-03T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Binary",
+    "startDate": "2016-12-03T08:00:00.000Z",
+    "endDate": "2016-12-10T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Eatalot",
+    "startDate": "2016-12-10T08:00:00.000Z",
+    "endDate": "2016-12-17T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Generia",
+    "startDate": "2016-12-17T08:00:00.000Z",
+    "endDate": "2016-12-24T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Flowbo",
+    "startDate": "2016-12-24T08:00:00.000Z",
+    "endDate": "2016-12-31T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Kniga",
+    "startDate": "2016-12-31T08:00:00.000Z",
+    "endDate": "2017-01-07T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Liegen",
+    "startDate": "2017-01-07T08:00:00.000Z",
+    "endDate": "2017-01-14T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Sturm",
+    "startDate": "2017-01-14T08:00:00.000Z",
+    "endDate": "2017-01-21T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Semna",
+    "startDate": "2017-01-21T08:00:00.000Z",
+    "endDate": "2017-01-28T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Holod",
+    "startDate": "2017-01-28T08:00:00.000Z",
+    "endDate": "2017-02-04T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Dawai",
+    "startDate": "2017-02-04T08:00:00.000Z",
+    "endDate": "2017-02-11T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Often",
+    "startDate": "2017-02-11T08:00:00.000Z",
+    "endDate": "2017-02-18T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Immer",
+    "startDate": "2017-02-18T08:00:00.000Z",
+    "endDate": "2017-02-25T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Ammo",
+    "startDate": "2017-02-25T08:00:00.000Z",
+    "endDate": "2017-03-04T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Seinlin",
+    "startDate": "2017-03-04T08:00:00.000Z",
+    "endDate": "2017-03-11T08:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Tamago",
+    "startDate": "2017-03-11T08:00:00.000Z",
+    "endDate": "2017-03-18T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Heiss",
+    "startDate": "2017-03-18T07:00:00.000Z",
+    "endDate": "2017-03-25T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Kalt",
+    "startDate": "2017-03-25T07:00:00.000Z",
+    "endDate": "2017-04-01T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Sommer",
+    "startDate": "2017-04-01T07:00:00.000Z",
+    "endDate": "2017-04-08T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Immer",
+    "startDate": "2017-04-08T07:00:00.000Z",
+    "endDate": "2017-04-15T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Mango",
+    "startDate": "2017-04-15T07:00:00.000Z",
+    "endDate": "2017-04-22T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Happy",
+    "startDate": "2017-04-22T07:00:00.000Z",
+    "endDate": "2017-04-29T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Sadsad",
+    "startDate": "2017-04-29T07:00:00.000Z",
+    "endDate": "2017-05-06T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Seeder",
+    "startDate": "2017-05-06T07:00:00.000Z",
+    "endDate": "2017-05-13T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "BumBum",
+    "startDate": "2017-05-13T07:00:00.000Z",
+    "endDate": "2017-05-20T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Stocker",
+    "startDate": "2017-05-20T07:00:00.000Z",
+    "endDate": "2017-05-27T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Coiner",
+    "startDate": "2017-05-27T07:00:00.000Z",
+    "endDate": "2017-06-03T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Mayau",
+    "startDate": "2017-06-03T07:00:00.000Z",
+    "endDate": "2017-06-10T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Little",
+    "startDate": "2017-06-10T07:00:00.000Z",
+    "endDate": "2017-06-17T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Micropoop",
+    "startDate": "2017-06-17T07:00:00.000Z",
+    "endDate": "2017-06-24T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Chiphead",
+    "startDate": "2017-06-24T07:00:00.000Z",
+    "endDate": "2017-07-01T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Cotton",
+    "startDate": "2017-07-01T07:00:00.000Z",
+    "endDate": "2017-07-08T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Bacon",
+    "startDate": "2017-07-08T07:00:00.000Z",
+    "endDate": "2017-07-15T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Happysad",
+    "startDate": "2017-07-15T07:00:00.000Z",
+    "endDate": "2017-07-22T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Someone",
+    "startDate": "2017-07-22T07:00:00.000Z",
+    "endDate": "2017-07-29T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Likeness",
+    "startDate": "2017-07-29T07:00:00.000Z",
+    "endDate": "2017-08-05T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Repeat",
+    "startDate": "2017-08-05T07:00:00.000Z",
+    "endDate": "2017-08-12T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Rewind",
+    "startDate": "2017-08-12T07:00:00.000Z",
+    "endDate": "2017-08-19T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Booster",
+    "startDate": "2017-08-19T07:00:00.000Z",
+    "endDate": "2017-08-26T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Baboom",
+    "startDate": "2017-08-26T07:00:00.000Z",
+    "endDate": "2017-09-02T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Kaboom",
+    "startDate": "2017-09-02T07:00:00.000Z",
+    "endDate": "2017-09-09T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Kebap",
+    "startDate": "2017-09-09T07:00:00.000Z",
+    "endDate": "2017-09-16T07:00:00.000Z",
+    "enabled": true
+  },
+  {
+    "seed": "Pizza",
+    "startDate": "2017-09-16T07:00:00.000Z",
+    "endDate": "2017-09-23T07:00:00.000Z",
+    "enabled": true
+  }
+]
